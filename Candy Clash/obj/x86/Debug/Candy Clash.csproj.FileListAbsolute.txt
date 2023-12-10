@@ -1,0 +1,64 @@
+C:\Vrop\Candy Clash\Candy Clash\obj\x86\Debug\Candy Clash.exe
+C:\Vrop\Candy Clash\Candy Clash\obj\x86\Debug\Candy Clash.pdb
+C:\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\Content\Images\achtergrond.xnb
+C:\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\Content\Images\healthleft.xnb
+C:\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\Content\Images\spritesheetfrank.xnb
+C:\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\Content\Images\spritesheetwilly.xnb
+C:\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\Candy Clash.exe
+C:\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\Candy Clash.pdb
+C:\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\SharpDX.dll
+C:\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\SharpDX.xml
+C:\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Vrop\Candy Clash\Candy Clash\obj\x86\Debug\Candy Clash.csprojResolveAssemblyReference.cache
+C:\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\Content\Images\WalkFrank.xnb
+C:\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\Content\Images\spritesheetwilly1.xnb
+C:\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\Content\Images\spritesheetfrank1.xnb
+E:\backup\Vrop\Candy Clash\Candy Clash\obj\x86\Debug\Candy Clash.exe
+E:\backup\Vrop\Candy Clash\Candy Clash\obj\x86\Debug\Candy Clash.pdb
+E:\backup\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\Content\Images\achtergrond.xnb
+E:\backup\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\Content\Images\healthleft.xnb
+E:\backup\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\Content\Images\spritesheetfrank.xnb
+E:\backup\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\Content\Images\spritesheetfrank1.xnb
+E:\backup\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\Content\Images\spritesheetwilly.xnb
+E:\backup\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\Content\Images\spritesheetwilly1.xnb
+E:\backup\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\Content\Images\WalkFrank.xnb
+E:\backup\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\Candy Clash.exe
+E:\backup\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\Candy Clash.pdb
+E:\backup\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\MonoGame.Framework.dll
+E:\backup\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\backup\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\SharpDX.dll
+E:\backup\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\backup\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\backup\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\backup\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\backup\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\SharpDX.XInput.dll
+E:\backup\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\backup\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\SharpDX.Direct3D9.dll
+E:\backup\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\MonoGame.Framework.xml
+E:\backup\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\backup\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\SharpDX.xml
+E:\backup\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\backup\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\backup\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\backup\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\backup\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\SharpDX.XInput.xml
+E:\backup\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\backup\Vrop\Candy Clash\Candy Clash\bin\Windows\Debug\SharpDX.Direct3D9.xml
+E:\backup\Vrop\Candy Clash\Candy Clash\obj\x86\Debug\Candy Clash.csprojResolveAssemblyReference.cache
